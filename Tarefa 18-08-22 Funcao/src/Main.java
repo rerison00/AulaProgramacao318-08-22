@@ -13,6 +13,7 @@ public class Main {
     }
         public static int fatorialcomrecursao(int valor)
         {
+            System.out.println(valor);
             if (valor == 0) {
                 return 1;
             }
